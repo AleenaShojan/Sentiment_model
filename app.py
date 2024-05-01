@@ -10,7 +10,7 @@ st.title("Sentiment Analysis")
 
 #Input text area
 
-user_input =st.text_area("Enter your texxt here")
+user_input =st.text_area("Enter your text here")
 
 #Prediction button
 
